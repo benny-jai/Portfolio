@@ -1,8 +1,8 @@
-version :0.1
+version: 0.1
 phases:
   build:
     commands:
-      echo nothing to do
+      -echo nothing to do
 artifacts:
   files:
     -index.html
